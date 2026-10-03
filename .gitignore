@@ -1,0 +1,32 @@
+# Generated Vivado projects and run products
+/build/
+.Xil/
+*.cache/
+*.runs/
+*.gen/
+*.hw/
+*.sim/
+*.srcs/
+*.ip_user_files/
+*.jou
+*.log
+*.str
+*.pb
+*.bit
+*.bin
+*.dcp
+*.ltx
+*.wdb
+*.vcd
+*.backup.*
+# Local environments and large acquisition/archive products
+.venv/
+__pycache__/
+.env
+/raw-data/
+*.zip
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

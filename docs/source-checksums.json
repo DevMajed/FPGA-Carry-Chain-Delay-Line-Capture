@@ -1,0 +1,11 @@
+{
+  "packaged_on": "2026-10-03",
+  "method": "Byte-preserving copy of located source and existing figures; source-to-measured-bitstream correspondence is unconfirmed.",
+  "files": {
+    "rtl/tdl_capture.sv": "91b52252299e5598277afe73785f5b84cd5aeac51f9f10b1fb105ea9b4fa4953",
+    "constraints/basys3_tdc.xdc": "deefc2767b12ae1dd7be9ff7e811496a2b4c371e0e7d221388c858a8388e7835",
+    "docs/images/raw-tdl-heatmap.png": "9df5e94cf0a8991809a473154ad62839fc3e25abdf48123d618d1ca938562a99",
+    "docs/images/ila-capture.png": "a9b2bfe3860504f64639e6d9fe5ea321e57a1f2a9eda88e14c20cacb86e2d055",
+    "docs/images/device-view.png": "eb74c794257be0665ef5bbe8c6e17860e2ace76d1c2cc825651687f51b5a338b"
+  }
+}
